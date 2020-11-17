@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927512865317",
+    "firebase_url": "https://smitsf-29f8c.firebaseio.com",
+    "project_id": "smitsf-29f8c",
+    "storage_bucket": "smitsf-29f8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927512865317:android:a92eecd76523421772edcc",
+        "android_client_info": {
+          "package_name": "com.mkpie7.SMI_TSF"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927512865317-bl7tlo5liltkbab821jopmsjh10j6s7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2IP9fRaPk7R3Cd6sgzVOEPAzKAEAbgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927512865317-bl7tlo5liltkbab821jopmsjh10j6s7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
